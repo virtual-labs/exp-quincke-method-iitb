@@ -1,1 +1,1 @@
-## Experiment name
+## Susceptibility of paramagnetic solution by Quinckes method.
