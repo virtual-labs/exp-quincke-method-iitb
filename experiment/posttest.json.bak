@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What effect does a magnetic field have on a paramagnetic solution in Quincke's method?",
+      "qid": 1,
+      "option_a": "No change",
+      "option_b": "It causes the liquid to rise",
+      "option_c": "It causes the liquid to fall",
+      "option_d": "It evaporates the liquid",
+      "correct_option": "b"
+   },
+   {
+      "question": "What does the height of the liquid column in Quincke's method indicate?",
+      "qid": 2,
+      "option_a": "Density of the solution",
+      "option_b": "Strength of the magnetic field",
+      "option_c": "Mass susceptibility",
+      "option_d": "Temperature",
+      "correct_option": "c"
+   },
+   {
+      "question": "Which factor does not affect the outcome of Quincke’s experiment?",
+      "qid": 3,
+      "option_a": "Temperature of the solution",
+      "option_b": "Strength of the magnetic field",
+      "option_c": "Nature of the paramagnetic substance",
+      "option_d": "Type of container used",
+      "correct_option": "d"
+   },
+   {
+      "question": "Why is it important to calibrate the magnetic field strength before performing Quincke’s method?",
+      "qid": 4,
+      "option_a": "To ensure accurate readings",
+      "option_b": "To change the properties of the solution",
+      "option_c": "To avoid evaporation",
+      "option_d": "For aesthetic purposes",
+      "correct_option": "a"
+   },
+   {
+      "question": "In Quincke’s method, what is directly proportional to the magnetic susceptibility?",
+      "qid": 5,
+      "option_a": "The temperature of the solution",
+      "option_b": "The rise in the liquid column",
+      "option_c": "The density of the solution",
+      "option_d": "The width of the container",
+      "correct_option": "b"
+   }
+]

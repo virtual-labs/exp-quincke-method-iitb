@@ -140,5 +140,5 @@ function load_current_dataset(sol, ind_arr) {
         }
     }
 }
-activity2();
+//activity2();
 //# sourceMappingURL=activity2.js.map
