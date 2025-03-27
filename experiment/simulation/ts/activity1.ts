@@ -151,7 +151,7 @@ function a1_draw_all_components() {
 		856*(0.3),
 		canvas
 	);
-	sq.name = 'electromagnet_img';
+	sq.name = 'Electromagnet';
 	scene.add(sq);
 	var sq = new Chemistry.Custome_image(
 		em_supply_img,
@@ -160,7 +160,7 @@ function a1_draw_all_components() {
 		856*(0.7),
 		canvas
 	);
-	sq.name = 'em_supply_img';
+	sq.name = 'Electromagnet Power Supply';
 	scene.add(sq);
 	var sq = new Chemistry.Custome_image(
 		gauss_meter_img,
@@ -169,7 +169,7 @@ function a1_draw_all_components() {
 		856,
 		canvas
 	);
-	sq.name = 'gauss_meter_img';
+	sq.name = 'Gauss Meter';
 	scene.add(sq);
 	var sq = new Chemistry.Custome_image(
 		gauss_probe_img,
@@ -178,7 +178,7 @@ function a1_draw_all_components() {
 		856*(0.4),
 		canvas
 	);
-	sq.name = 'gauss_probe_img';
+	sq.name = 'Gauss Probe';
 	scene.add(sq);
 	var sq = new Chemistry.Custome_image(
 		wooden_img,
@@ -187,7 +187,7 @@ function a1_draw_all_components() {
 		856*(0.3),
 		canvas
 	);
-	sq.name = 'wooden_img';
+	sq.name = 'Wooden Stand';
 	scene.add(sq);
 	var sq = new Chemistry.Custome_image(
 		tube_img,
@@ -196,7 +196,7 @@ function a1_draw_all_components() {
 		850*(0.5),
 		canvas
 	);
-	sq.name = 'tube_img';
+	sq.name = 'Tube';
 	scene.add(sq);
 	var sq = new Chemistry.Custome_image(
 		bench,
@@ -205,7 +205,7 @@ function a1_draw_all_components() {
 		200,
 		canvas
 	);
-	sq.name = 'bench';
+	sq.name = 'Bench';
 	scene.add(sq);
 
 	var sq = new Chemistry.Custome_image(
@@ -215,7 +215,7 @@ function a1_draw_all_components() {
 		200,
 		canvas
 	);
-	sq.name = 'mscope';
+	sq.name = 'Microscope';
 	scene.add(sq);
 
 }
@@ -227,7 +227,7 @@ function a1_load_questions() {}
 	question.push({
 		srno: 1,
 		question: "Select <span style='color: #018fc3'>Electromagnet</span>",
-		ans: 'electromagnet_img',
+		ans: 'Electromagnet',
 		hint: [
 			'Has Coils',
 			'Produces magentic fields by coils'
@@ -236,19 +236,19 @@ function a1_load_questions() {}
 	question.push({
 		srno: 2,
 		question: "Select <span style='color: #018fc3'> Electromagnet Power Supply</span>",
-		ans: 'em_supply_img',
+		ans: 'Electromagnet Power Supply',
 		hint: ['Rectangular', 'Mounted Vertically', 'Has valves attached'],
 	});
 	question.push({
 		srno: 3,
 		question: "Select <span style='color: #018fc3'> Gauss Meter </span>",
-		ans: 'gauss_meter_img',
+		ans: 'Gauss Meter',
 		hint: ['Rectangular', 'Mounted Vertically', 'Has valves attached'],
 	});
 	question.push({
 		srno: 4,
 		question: "Select <span style='color: #018fc3'>Gauss Probe</span>",
-		ans: 'gauss_probe_img',
+		ans: 'Gauss Probe',
 		hint: [
 			'Double Pipe',
 			'pipe inside a pipe',
@@ -258,13 +258,13 @@ function a1_load_questions() {}
 	question.push({
 		srno: 5,
 		question: "Select <span style='color: #018fc3'>Wooden Block</span>",
-		ans: 'wooden_img',
+		ans: 'Wooden Stand',
 		hint: ['U-Shape', 'Mounted horizontally', 'Has two pins'],
 	});
 	question.push({
 		srno: 6,
 		question: "Select <span style='color: #018fc3'> Quinke's Tube </span>",
-		ans: `tube_img`,
+		ans: `Tube`,
 		hint: [
 			'Rectangular box with sensor',
 			'Display SET T',
@@ -274,7 +274,7 @@ function a1_load_questions() {}
 	question.push({
 		srno: 7,
 		question: "Select <span style='color: #018fc3'> Optical Bench </span>",
-		ans: `bench`,
+		ans: `Bench`,
 		hint: [
 			'Rectangular box with sensor',
 			'Display SET T',
@@ -283,9 +283,9 @@ function a1_load_questions() {}
 	});
 
 	question.push({
-		srno: 7,
+		srno: 8,
 		question: "Select <span style='color: #018fc3'> Microscope </span>",
-		ans: `mscope`,
+		ans: `Microscope`,
 		hint: [
 			'Rectangular box with sensor',
 			'Display SET T',
@@ -342,25 +342,25 @@ function load_higlighted_images() {
 	];
 
 	a1_labels = [
-		new Chemistry.Text('electromagnet_img', new Chemistry.Point(950, 100), canvas),
+		new Chemistry.Text('Electromagnet', new Chemistry.Point(950, 100), canvas),
 
-		new Chemistry.Text('em_supply_img', new Chemistry.Point(1615, 120), canvas),
+		new Chemistry.Text('Electromagnet Power Supply', new Chemistry.Point(1615, 120), canvas),
 
 		new Chemistry.Text(
-			'gauss_meter_img',
+			'Gauss Meter',
 			new Chemistry.Point(1583, 660),
 			canvas
 		),
 
-		new Chemistry.Text('gauss_probe_img', new Chemistry.Point(225, 690), canvas),
+		new Chemistry.Text('Gauss Probe', new Chemistry.Point(225, 690), canvas),
 
-		new Chemistry.Text('wooden_img', new Chemistry.Point(235, 190), canvas),
+		new Chemistry.Text('Wooden Stand', new Chemistry.Point(235, 190), canvas),
 
-		new Chemistry.Text('tube_img', new Chemistry.Point(950, 605), canvas),
+		new Chemistry.Text('Tube', new Chemistry.Point(950, 605), canvas),
 
-		new Chemistry.Text('bench', new Chemistry.Point(950, 605), canvas),
+		new Chemistry.Text('Bench', new Chemistry.Point(950, 605), canvas),
 
-		new Chemistry.Text('mscope', new Chemistry.Point(950, 605), canvas)
+		new Chemistry.Text('Microscope', new Chemistry.Point(950, 605), canvas)
 	];
 }
 
@@ -581,7 +581,7 @@ function a1_mouseclick(e: MouseEvent) {
 	a1_check_isinside(x, y);
 }
 
-//  activity1();
+activity1();
 
 
 

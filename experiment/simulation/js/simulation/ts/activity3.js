@@ -110,7 +110,7 @@ function activity3() {
     <p>To take reading a certain point click "add readings" button to add directly to the table</p>
 	<p>After adding a new obervation row, hide the pannel change the current and take new reading add it again.<p>
      </div>`, 3);
-    pp.showtitle(`Observation Table`, 4);
+    pp.showtitle(``, 4);
     var bsOffcanvas = new bootstrap.Offcanvas(document.getElementById('offcanvasRight3'));
     bsOffcanvas.show();
     // pp.addtoleftpannel(color_dd);
@@ -253,8 +253,8 @@ function add_offcanvas_table(x) {
     let ele = document.getElementsByClassName('bi bi-arrow-bar-left offcanvasicon')[1];
     ele.className = '';
     ele.innerHTML = 'Table';
-    x.showdescription(`<p id='exp-title' style='margin: auto; width: 95%;'>Output Charateristics Observation Table</span><p>`, 4);
-    x.addtorightpannel(`<div id='out_obst' ><h3 style='text-align: center;'>for I<sub>B</sub> = <span id='off-ib' ></span></h3></div>`, 4);
+    x.showdescription(`<p id='exp-title' style='margin: auto; width: 95%;'>Observation Table</span><p>`, 4);
+    x.addtorightpannel(`<div id='out_obst' ><h3 style='text-align: center;'><span id='off-ib' ></span></h3></div>`, 4);
     //add table here
     let header = [`Sr no.`, `Current (amp)`, `Magnetic field (Gauss)`, `MSR (cm)`, `VSR (cm)`];
     let parent = document.getElementById('out_obst');
@@ -553,6 +553,11 @@ function set_second_constant() {
 // to record and manage input observation table
 // to record input observations
 function record_observation() {
+    if (obs_table.length >= 5) {
+        var bsOffcanvas = new bootstrap.Offcanvas(document.getElementById('offcanvasRight4'));
+        bsOffcanvas.show();
+        return;
+    }
     let new_row = [];
     //to avoid duplicate entries;
     for (let i = 0; i < obs_table.length; i++) {
@@ -590,42 +595,16 @@ function record_observation() {
     tab.load_table();
     // x1 = obs_table[obs_table.length - 1][1];
     // d1 = obs_table[obs_table.length - 1][3];
-    if (obs_table.length == 5) {
-        activity4();
-        return;
-    }
     var bsOffcanvas = new bootstrap.Offcanvas(document.getElementById('offcanvasRight4'));
     bsOffcanvas.show();
+    if (obs_table.length == 5) {
+        let ele = document.createElement('div');
+        ele.innerHTML = `<button onclick='activity4()' class='btn btn-success' style=' width: 80%;margin-left: 9%; padding: 3px; margin-top: 35px; margin-bottom: 35px;'>Next</button>`;
+        parent.appendChild(ele);
+        //activity4();
+        return;
+    }
 }
-// to verify input observations
-// function verification_sucessful() {
-// 	var bsOffcanvas = new bootstrap.Offcanvas(
-// 		document.getElementById('offcanvasRight4')
-// 	);
-// 	bsOffcanvas.hide();
-// 	let btn: HTMLButtonElement = <HTMLButtonElement> document.getElementById('record-btn');
-// 	btn.disabled = true;
-// 	btn.className = 'btn btn-secondary';
-// 	if(obs_table.length == 5) {
-// 		let btn3: HTMLButtonElement = <HTMLButtonElement> document.getElementById('power-dsp');
-// 		let btn: HTMLButtonElement = <HTMLButtonElement> document.getElementById('record-btn');
-// 		btn3.disabled = false;
-// 		btn.onclick = record_out_observation;
-// 		//btn.disabled = false;
-// 		//modify offcampus and next steps
-// 		pp.showtitle(
-// 			`<p id="exp-title" style='width: 23vw;'>Output Characteristics Observations</span><p>`,
-// 			3
-// 		);
-// 		pp.showdescription(`<div style="background-color: #f4ccccff; border-radius: 10px; border: black; padding: 5%; font-weight: 500; font-size: 17px;">- Click the Input Charatersitics button to shift to Output Charatersitics mode. <br> - Select a I<sub>B</sub> value and press set I<sub>B</sub> button  <br> - Take readings for output charateristics by varying V<sub>CE</sub> and clicking the record observation button <br> - Enter the values in table and press verify <br> - Repeat record observations 4 more times to complete the Output characteristics observation table.  </div>` , 3);
-// 		var bsOffcanvas = new bootstrap.Offcanvas(
-// 			document.getElementById('offcanvasRight3')
-// 		);
-// 		bsOffcanvas.show();
-// 	} else {
-// 		enable_buttons();
-// 	}
-// }
 //function to disable buttons while adding new input observation
 function disable_buttons() {
     let btn1 = document.getElementById('a2-btn-up');

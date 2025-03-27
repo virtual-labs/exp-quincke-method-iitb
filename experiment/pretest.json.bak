@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What type of property is magnetic susceptibility?",
+      "qid": 1,
+      "option_a": "Chemical property",
+      "option_b": "Physical property",
+      "option_c": "Electrical property",
+      "option_d": "Thermal property",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which of these materials is an example of a paramagnetic substance?",
+      "qid": 2,
+      "option_a": "Copper",
+      "option_b": "Aluminium",
+      "option_c": "Iron",
+      "option_d": "Wood",
+      "correct_option": "b"
+   },
+   {
+      "question": "What is the unit of magnetic susceptibility in the SI system?",
+      "qid": 3,
+      "option_a": "Henry per meter",
+      "option_b": "No unit (dimensionless)",
+      "option_c": "Tesla",
+      "option_d": " Weber",
+      "correct_option": "b"
+   },
+   {
+      "question": "What is the principle behind Quincke’s method?",
+      "qid": 4,
+      "option_a": "Measuring electrical resistance change",
+      "option_b": "Measuring the rise of liquid in a tube due to a magnetic field",
+      "option_c": "Measuring temperature change",
+      "option_d": "Observing optical properties",
+      "correct_option": "b"
+   },
+   {
+      "question": "What type of balance is used for precision measurements in magnetic experiments?",
+      "qid": 5,
+      "option_a": "Electronic balance",
+      "option_b": "Analytical balance",
+      "option_c": "Mechanical balance",
+      "option_d": "Spring balance",
+      "correct_option": "b"
+   }
+]
