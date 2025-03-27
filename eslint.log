@@ -1,0 +1,865 @@
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/posttest 2.js
+    1:1    warning  'imagepath' is not defined             no-undef
+   14:5    warning  'postdata' is not defined              no-undef
+   16:29   warning  'postdata' is not defined              no-undef
+   19:25   warning  'postdata' is not defined              no-undef
+   21:58   warning  'postdata' is not defined              no-undef
+   21:90   warning  'postdata' is not defined              no-undef
+   21:133  warning  'imagepath' is not defined             no-undef
+   21:147  warning  'postdata' is not defined              no-undef
+   25:35   warning  'postdata' is not defined              no-undef
+   26:58   warning  'postdata' is not defined              no-undef
+   26:84   warning  'postdata' is not defined              no-undef
+   27:41   warning  'postdata' is not defined              no-undef
+   27:73   warning  'postdata' is not defined              no-undef
+   28:43   warning  'postdata' is not defined              no-undef
+   28:69   warning  'imagepath' is not defined             no-undef
+   28:83   warning  'postdata' is not defined              no-undef
+   28:125  warning  'postdata' is not defined              no-undef
+   36:35   warning  'postdata' is not defined              no-undef
+   37:58   warning  'postdata' is not defined              no-undef
+   37:84   warning  'postdata' is not defined              no-undef
+   38:41   warning  'postdata' is not defined              no-undef
+   38:73   warning  'postdata' is not defined              no-undef
+   39:43   warning  'postdata' is not defined              no-undef
+   39:69   warning  'imagepath' is not defined             no-undef
+   39:83   warning  'postdata' is not defined              no-undef
+   39:125  warning  'postdata' is not defined              no-undef
+   47:35   warning  'postdata' is not defined              no-undef
+   48:58   warning  'postdata' is not defined              no-undef
+   48:84   warning  'postdata' is not defined              no-undef
+   49:41   warning  'postdata' is not defined              no-undef
+   49:73   warning  'postdata' is not defined              no-undef
+   50:43   warning  'postdata' is not defined              no-undef
+   50:69   warning  'imagepath' is not defined             no-undef
+   50:83   warning  'postdata' is not defined              no-undef
+   50:125  warning  'postdata' is not defined              no-undef
+   58:35   warning  'postdata' is not defined              no-undef
+   59:58   warning  'postdata' is not defined              no-undef
+   59:84   warning  'postdata' is not defined              no-undef
+   60:40   warning  'postdata' is not defined              no-undef
+   60:72   warning  'postdata' is not defined              no-undef
+   61:43   warning  'postdata' is not defined              no-undef
+   61:69   warning  'imagepath' is not defined             no-undef
+   61:83   warning  'postdata' is not defined              no-undef
+   61:125  warning  'postdata' is not defined              no-undef
+   71:10   warning  'hidediv' is defined but never used    no-unused-vars
+   76:27   warning  'postdata' is not defined              no-undef
+   77:36   warning  'postdata' is not defined              no-undef
+   79:27   warning  'postdata' is not defined              no-undef
+   80:36   warning  'postdata' is not defined              no-undef
+   82:27   warning  'postdata' is not defined              no-undef
+   83:36   warning  'postdata' is not defined              no-undef
+   85:27   warning  'postdata' is not defined              no-undef
+   86:36   warning  'postdata' is not defined              no-undef
+   87:21   warning  'postdata' is not defined              no-undef
+   94:10   warning  'submitans' is defined but never used  no-unused-vars
+   95:5    warning  'option_selected' is not defined       no-undef
+   96:5    warning  'correctans' is not defined            no-undef
+   97:10   warning  'i' is not defined                     no-undef
+   97:17   warning  'i' is not defined                     no-undef
+   97:21   warning  'postdata' is not defined              no-undef
+   97:38   warning  'i' is not defined                     no-undef
+   99:13   warning  'option_selected' is not defined       no-undef
+   99:72   warning  'postdata' is not defined              no-undef
+   99:81   warning  'i' is not defined                     no-undef
+  100:17   warning  'option_selected' is not defined       no-undef
+  100:33   warning  'i' is not defined                     no-undef
+  100:39   warning  'postdata' is not defined              no-undef
+  100:48   warning  'i' is not defined                     no-undef
+  101:17   warning  'correctans' is not defined            no-undef
+  102:44   warning  'postdata' is not defined              no-undef
+  102:53   warning  'i' is not defined                     no-undef
+  102:62   warning  'option_selected' is not defined       no-undef
+  102:78   warning  'i' is not defined                     no-undef
+  105:17   warning  'correctans' is not defined            no-undef
+  106:44   warning  'postdata' is not defined              no-undef
+  106:53   warning  'i' is not defined                     no-undef
+  106:62   warning  'option_selected' is not defined       no-undef
+  106:78   warning  'i' is not defined                     no-undef
+  114:17   warning  'option_selected' is not defined       no-undef
+  115:17   warning  'correctans' is not defined            no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/pretest 2.js
+    1:1    warning  'imagepath' is not defined              no-undef
+   14:5    warning  'postdata1' is not defined              no-undef
+   16:30   warning  'postdata1' is not defined              no-undef
+   19:25   warning  'postdata1' is not defined              no-undef
+   21:58   warning  'postdata1' is not defined              no-undef
+   21:91   warning  'postdata1' is not defined              no-undef
+   21:135  warning  'imagepath' is not defined              no-undef
+   21:149  warning  'postdata1' is not defined              no-undef
+   25:37   warning  'postdata1' is not defined              no-undef
+   26:60   warning  'postdata1' is not defined              no-undef
+   26:89   warning  'postdata1' is not defined              no-undef
+   27:41   warning  'postdata1' is not defined              no-undef
+   27:74   warning  'postdata1' is not defined              no-undef
+   28:45   warning  'postdata1' is not defined              no-undef
+   28:72   warning  'imagepath' is not defined              no-undef
+   28:86   warning  'postdata1' is not defined              no-undef
+   28:130  warning  'postdata1' is not defined              no-undef
+   36:37   warning  'postdata1' is not defined              no-undef
+   37:60   warning  'postdata1' is not defined              no-undef
+   37:89   warning  'postdata1' is not defined              no-undef
+   38:41   warning  'postdata1' is not defined              no-undef
+   38:74   warning  'postdata1' is not defined              no-undef
+   39:45   warning  'postdata1' is not defined              no-undef
+   39:72   warning  'imagepath' is not defined              no-undef
+   39:86   warning  'postdata1' is not defined              no-undef
+   39:130  warning  'postdata1' is not defined              no-undef
+   47:37   warning  'postdata1' is not defined              no-undef
+   48:60   warning  'postdata1' is not defined              no-undef
+   48:89   warning  'postdata1' is not defined              no-undef
+   49:41   warning  'postdata1' is not defined              no-undef
+   49:74   warning  'postdata1' is not defined              no-undef
+   50:45   warning  'postdata1' is not defined              no-undef
+   50:72   warning  'imagepath' is not defined              no-undef
+   50:86   warning  'postdata1' is not defined              no-undef
+   50:130  warning  'postdata1' is not defined              no-undef
+   58:37   warning  'postdata1' is not defined              no-undef
+   59:60   warning  'postdata1' is not defined              no-undef
+   59:89   warning  'postdata1' is not defined              no-undef
+   60:40   warning  'postdata1' is not defined              no-undef
+   60:73   warning  'postdata1' is not defined              no-undef
+   61:45   warning  'postdata1' is not defined              no-undef
+   61:72   warning  'imagepath' is not defined              no-undef
+   61:86   warning  'postdata1' is not defined              no-undef
+   61:130  warning  'postdata1' is not defined              no-undef
+   71:10   warning  'hidediv1' is defined but never used    no-unused-vars
+   76:27   warning  'postdata1' is not defined              no-undef
+   77:38   warning  'postdata1' is not defined              no-undef
+   79:27   warning  'postdata1' is not defined              no-undef
+   80:38   warning  'postdata1' is not defined              no-undef
+   82:27   warning  'postdata1' is not defined              no-undef
+   83:38   warning  'postdata1' is not defined              no-undef
+   85:27   warning  'postdata1' is not defined              no-undef
+   86:38   warning  'postdata1' is not defined              no-undef
+   87:21   warning  'postdata1' is not defined              no-undef
+   94:10   warning  'submitans1' is defined but never used  no-unused-vars
+   95:5    warning  'option_selected' is not defined        no-undef
+   96:5    warning  'correctans' is not defined             no-undef
+   97:10   warning  'i' is not defined                      no-undef
+   97:17   warning  'i' is not defined                      no-undef
+   97:21   warning  'postdata1' is not defined              no-undef
+   97:39   warning  'i' is not defined                      no-undef
+   99:13   warning  'option_selected' is not defined        no-undef
+   99:74   warning  'postdata1' is not defined              no-undef
+   99:84   warning  'i' is not defined                      no-undef
+  100:17   warning  'option_selected' is not defined        no-undef
+  100:33   warning  'i' is not defined                      no-undef
+  100:39   warning  'postdata1' is not defined              no-undef
+  100:49   warning  'i' is not defined                      no-undef
+  101:17   warning  'correctans' is not defined             no-undef
+  102:46   warning  'postdata1' is not defined              no-undef
+  102:56   warning  'i' is not defined                      no-undef
+  102:65   warning  'option_selected' is not defined        no-undef
+  102:81   warning  'i' is not defined                      no-undef
+  105:17   warning  'correctans' is not defined             no-undef
+  106:46   warning  'postdata1' is not defined              no-undef
+  106:56   warning  'i' is not defined                      no-undef
+  106:65   warning  'option_selected' is not defined        no-undef
+  106:81   warning  'i' is not defined                      no-undef
+  114:17   warning  'option_selected' is not defined        no-undef
+  115:17   warning  'correctans' is not defined             no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/activity1.js
+    8:14   warning  'Pannel' is not defined                                no-undef
+   14:10   warning  'start_act1' is defined but never used                 no-unused-vars
+   33:5    warning  'global_score' is assigned a value but never used      no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                   no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used  no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                  no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                   no-unused-vars
+   46:5    warning  'display_score' is defined but never used              no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used            no-unused-vars
+   65:17   warning  'Scene' is not defined                                 no-undef
+   70:27   warning  'bootstrap' is not defined                             no-undef
+  109:18   warning  'Chemistry' is not defined                             no-undef
+  109:42   warning  'electromagnet_img' is not defined                     no-undef
+  109:65   warning  'Chemistry' is not defined                             no-undef
+  112:9    warning  'sq' is already defined                                no-redeclare
+  112:18   warning  'Chemistry' is not defined                             no-undef
+  112:42   warning  'em_supply_img' is not defined                         no-undef
+  112:61   warning  'Chemistry' is not defined                             no-undef
+  115:9    warning  'sq' is already defined                                no-redeclare
+  115:18   warning  'Chemistry' is not defined                             no-undef
+  115:42   warning  'gauss_meter_img' is not defined                       no-undef
+  115:63   warning  'Chemistry' is not defined                             no-undef
+  118:9    warning  'sq' is already defined                                no-redeclare
+  118:18   warning  'Chemistry' is not defined                             no-undef
+  118:42   warning  'gauss_probe_img' is not defined                       no-undef
+  118:63   warning  'Chemistry' is not defined                             no-undef
+  121:9    warning  'sq' is already defined                                no-redeclare
+  121:18   warning  'Chemistry' is not defined                             no-undef
+  121:42   warning  'wooden_img' is not defined                            no-undef
+  121:58   warning  'Chemistry' is not defined                             no-undef
+  124:9    warning  'sq' is already defined                                no-redeclare
+  124:18   warning  'Chemistry' is not defined                             no-undef
+  124:42   warning  'tube_img' is not defined                              no-undef
+  124:56   warning  'Chemistry' is not defined                             no-undef
+  127:9    warning  'sq' is already defined                                no-redeclare
+  127:18   warning  'Chemistry' is not defined                             no-undef
+  127:42   warning  'bench' is not defined                                 no-undef
+  127:53   warning  'Chemistry' is not defined                             no-undef
+  130:9    warning  'sq' is already defined                                no-redeclare
+  130:18   warning  'Chemistry' is not defined                             no-undef
+  130:42   warning  'holder' is not defined                                no-undef
+  130:54   warning  'Chemistry' is not defined                             no-undef
+  220:25   warning  'Chemistry' is not defined                             no-undef
+  220:50   warning  'Chemistry' is not defined                             no-undef
+  231:10   warning  'electromagnet_img' is not defined                     no-undef
+  231:29   warning  'electromagnet_img' is not defined                     no-undef
+  232:10   warning  'em_supply_img' is not defined                         no-undef
+  232:25   warning  'em_supply_img' is not defined                         no-undef
+  233:10   warning  'gauss_meter_img' is not defined                       no-undef
+  233:27   warning  'gauss_meter_img' is not defined                       no-undef
+  234:10   warning  'gauss_probe_img' is not defined                       no-undef
+  234:27   warning  'gauss_probe_img' is not defined                       no-undef
+  235:10   warning  'wooden_img' is not defined                            no-undef
+  235:22   warning  'wooden_img' is not defined                            no-undef
+  236:10   warning  'tube_img' is not defined                              no-undef
+  236:20   warning  'tube_img' is not defined                              no-undef
+  237:10   warning  'bench' is not defined                                 no-undef
+  237:17   warning  'bench' is not defined                                 no-undef
+  238:10   warning  'mscope' is not defined                                no-undef
+  238:18   warning  'mscope' is not defined                                no-undef
+  241:13   warning  'Chemistry' is not defined                             no-undef
+  241:49   warning  'Chemistry' is not defined                             no-undef
+  242:13   warning  'Chemistry' is not defined                             no-undef
+  242:62   warning  'Chemistry' is not defined                             no-undef
+  243:13   warning  'Chemistry' is not defined                             no-undef
+  243:47   warning  'Chemistry' is not defined                             no-undef
+  244:13   warning  'Chemistry' is not defined                             no-undef
+  244:47   warning  'Chemistry' is not defined                             no-undef
+  245:13   warning  'Chemistry' is not defined                             no-undef
+  245:48   warning  'Chemistry' is not defined                             no-undef
+  246:13   warning  'Chemistry' is not defined                             no-undef
+  246:40   warning  'Chemistry' is not defined                             no-undef
+  247:13   warning  'Chemistry' is not defined                             no-undef
+  247:41   warning  'Chemistry' is not defined                             no-undef
+  248:13   warning  'Chemistry' is not defined                             no-undef
+  248:46   warning  'Chemistry' is not defined                             no-undef
+  253:12   warning  Unexpected constant condition                          no-constant-condition
+  275:49   warning  'Chemistry' is not defined                             no-undef
+  278:39   warning  'bootstrap' is not defined                             no-undef
+  312:30   warning  'Chemistry' is not defined                             no-undef
+  312:73   warning  'Chemistry' is not defined                             no-undef
+  340:13   warning  'bsOffcanvas' is already defined                       no-redeclare
+  340:31   warning  'bootstrap' is not defined                             no-undef
+  342:30   warning  'Chemistry' is not defined                             no-undef
+  342:118  warning  'Chemistry' is not defined                             no-undef
+  385:24   warning  'activity2' is not defined                             no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/activity2.js
+    1:10  warning  'activity2' is defined but never used         no-unused-vars
+    2:5   warning  'pp' is not defined                           no-undef
+    3:5   warning  'pp' is not defined                           no-undef
+   33:5   warning  'pp' is not defined                           no-undef
+   35:5   warning  'pp' is not defined                           no-undef
+   38:5   warning  'canvas' is not defined                       no-undef
+   38:14  warning  'pp' is not defined                           no-undef
+   39:5   warning  'context' is not defined                      no-undef
+   39:15  warning  'canvas' is not defined                       no-undef
+   50:5   warning  'canvas' is not defined                       no-undef
+   51:5   warning  'canvas' is not defined                       no-undef
+   51:23  warning  'canvas' is not defined                       no-undef
+   52:5   warning  'lscale' is not defined                       no-undef
+   52:14  warning  'canvas' is not defined                       no-undef
+   54:9   warning  'canvas' is not defined                       no-undef
+   58:5   warning  'context' is not defined                      no-undef
+   58:26  warning  'canvas' is not defined                       no-undef
+   59:5   warning  'context' is not defined                      no-undef
+   85:10  warning  'move_to_a3' is defined but never used        no-unused-vars
+   90:13  warning  'select_material' is not defined              no-undef
+   91:13  warning  'select_density' is not defined               no-undef
+  103:13  warning  'select_material' is not defined              no-undef
+  104:13  warning  'select_density' is not defined               no-undef
+  115:9   warning  'activity3' is not defined                    no-undef
+  122:5   warning  'current_dataset' is not defined              no-undef
+  123:5   warning  'current_dataset' is not defined              no-undef
+  124:5   warning  'current_dataset' is not defined              no-undef
+  125:5   warning  'current_dataset' is not defined              no-undef
+  127:29  warning  'ferric_chloride_data' is not defined         no-undef
+  128:13  warning  'current_dataset' is not defined              no-undef
+  128:37  warning  'ferric_chloride_data' is not defined         no-undef
+  129:13  warning  'current_dataset' is not defined              no-undef
+  129:37  warning  'ferric_chloride_data' is not defined         no-undef
+  130:13  warning  'current_dataset' is not defined              no-undef
+  130:37  warning  'ferric_chloride_data' is not defined         no-undef
+  131:13  warning  'current_dataset' is not defined              no-undef
+  131:37  warning  'ferric_chloride_data' is not defined         no-undef
+  135:29  warning  'ferric_chloride_data' is not defined         no-undef
+  136:13  warning  'current_dataset' is not defined              no-undef
+  136:37  warning  'manganese_sulphate_solution' is not defined  no-undef
+  137:13  warning  'current_dataset' is not defined              no-undef
+  137:37  warning  'manganese_sulphate_solution' is not defined  no-undef
+  138:13  warning  'current_dataset' is not defined              no-undef
+  138:37  warning  'manganese_sulphate_solution' is not defined  no-undef
+  139:13  warning  'current_dataset' is not defined              no-undef
+  139:37  warning  'manganese_sulphate_solution' is not defined  no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/activity3.js
+    1:5    warning  'img_slider' is defined but never used            no-unused-vars
+    2:5    warning  'img_led' is defined but never used               no-unused-vars
+    3:5    warning  'assembly_image' is defined but never used        no-unused-vars
+    4:5    warning  'led_color' is defined but never used             no-unused-vars
+    5:5    warning  'power' is assigned a value but never used        no-unused-vars
+    6:5    warning  'current_ele' is assigned a value but never used  no-unused-vars
+    7:5    warning  'l_ele' is assigned a value but never used        no-unused-vars
+    8:5    warning  'x_ele' is assigned a value but never used        no-unused-vars
+   99:10   warning  'activity3' is defined but never used             no-unused-vars
+  100:5    warning  'pp' is not defined                               no-undef
+  101:5    warning  'pp' is not defined                               no-undef
+  102:5    warning  'pp' is not defined                               no-undef
+  103:25   warning  'pp' is not defined                               no-undef
+  104:5    warning  'obs_table' is not defined                        no-undef
+  105:5    warning  'output_observation_table' is not defined         no-undef
+  106:5    warning  'pp' is not defined                               no-undef
+  107:5    warning  'pp' is not defined                               no-undef
+  113:5    warning  'pp' is not defined                               no-undef
+  114:27   warning  'bootstrap' is not defined                        no-undef
+  117:5    warning  'pp' is not defined                               no-undef
+  118:5    warning  'pp' is not defined                               no-undef
+  119:5    warning  'pp' is not defined                               no-undef
+  130:18   warning  'Scene_Canvas' is not defined                     no-undef
+  204:10   warning  'a3_mouseclick' is defined but never used         no-unused-vars
+  205:37   warning  'rect' is not defined                             no-undef
+  205:47   warning  'lscale' is not defined                           no-undef
+  206:25   warning  'canvas' is not defined                           no-undef
+  206:54   warning  'rect' is not defined                             no-undef
+  206:65   warning  'lscale' is not defined                           no-undef
+  223:5    warning  'lscale' is not defined                           no-undef
+  262:25   warning  'current_dataset' is not defined                  no-undef
+  263:35   warning  'current_dataset' is not defined                  no-undef
+  263:58   warning  'current_dataset' is not defined                  no-undef
+  263:81   warning  'current_dataset' is not defined                  no-undef
+  263:104  warning  'current_dataset' is not defined                  no-undef
+  265:19   warning  'Show_Table' is not defined                       no-undef
+  268:10   warning  'power_button' is defined but never used          no-unused-vars
+  269:9    warning  'btn' is assigned a value but never used          no-unused-vars
+  270:9    warning  'btn1' is assigned a value but never used         no-unused-vars
+  271:9    warning  'heading' is assigned a value but never used      no-unused-vars
+  272:9    warning  'inp_control' is assigned a value but never used  no-unused-vars
+  273:9    warning  'out_control' is assigned a value but never used  no-unused-vars
+  292:9    warning  'reset' is assigned a value but never used        no-unused-vars
+  299:25   warning  'Chemistry' is not defined                        no-undef
+  299:49   warning  'bench' is not defined                            no-undef
+  299:60   warning  'Chemistry' is not defined                        no-undef
+  300:26   warning  'Chemistry' is not defined                        no-undef
+  300:50   warning  'holder' is not defined                           no-undef
+  300:62   warning  'Chemistry' is not defined                        no-undef
+  301:24   warning  'Chemistry' is not defined                        no-undef
+  301:48   warning  'lens' is not defined                             no-undef
+  301:58   warning  'Chemistry' is not defined                        no-undef
+  311:31   warning  'Chemistry' is not defined                        no-undef
+  311:55   warning  'dark' is not defined                             no-undef
+  311:65   warning  'Chemistry' is not defined                        no-undef
+  319:5    warning  'd' is assigned a value but never used            no-unused-vars
+  319:10   warning  'ferric_chloride_data' is not defined             no-undef
+  319:38   warning  'ferric_chloride_data' is not defined             no-undef
+  319:66   warning  'ferric_chloride_data' is not defined             no-undef
+  319:94   warning  'ferric_chloride_data' is not defined             no-undef
+  320:5    warning  'noise' is not defined                            no-undef
+  321:17   warning  'noise' is not defined                            no-undef
+  323:19   warning  'Chemistry' is not defined                        no-undef
+  323:47   warning  'noise' is not defined                            no-undef
+  323:67   warning  'Chemistry' is not defined                        no-undef
+  323:107  warning  'lscale' is not defined                           no-undef
+  323:153  warning  'lscale' is not defined                           no-undef
+  324:26   warning  'Chemistry' is not defined                        no-undef
+  324:50   warning  'mscope' is not defined                           no-undef
+  324:62   warning  'Chemistry' is not defined                        no-undef
+  324:102  warning  'lscale' is not defined                           no-undef
+  324:136  warning  'lscale' is not defined                           no-undef
+  325:22   warning  'Chemistry' is not defined                        no-undef
+  325:67   warning  'lscale' is not defined                           no-undef
+  325:106  warning  'lscale' is not defined                           no-undef
+  326:22   warning  'Chemistry' is not defined                        no-undef
+  326:61   warning  'lscale' is not defined                           no-undef
+  326:103  warning  'lscale' is not defined                           no-undef
+  337:10   warning  'inp_ch_vbe_dec' is defined but never used        no-unused-vars
+  338:9    warning  'inp_sim_vbe' is not defined                      no-undef
+  339:9    warning  'inp_sim_vbe' is not defined                      no-undef
+  339:35   warning  'inp_sim_vbe' is not defined                      no-undef
+  343:14   warning  'inp_sim_vbe' is not defined                      no-undef
+  348:10   warning  'inp_ch_vbe_inc' is defined but never used        no-unused-vars
+  349:9    warning  'inp_sim_vbe' is not defined                      no-undef
+  350:9    warning  'inp_sim_vbe' is not defined                      no-undef
+  350:35   warning  'inp_sim_vbe' is not defined                      no-undef
+  354:14   warning  'inp_sim_vbe' is not defined                      no-undef
+  359:10   warning  'inp_ch_vce_dec' is defined but never used        no-unused-vars
+  360:9    warning  'inp_sim_vce' is not defined                      no-undef
+  361:9    warning  'inp_sim_vce' is not defined                      no-undef
+  361:23   warning  'inp_sim_vce' is not defined                      no-undef
+  364:14   warning  'inp_sim_vce' is not defined                      no-undef
+  368:10   warning  'inp_ch_vce_inc' is defined but never used        no-unused-vars
+  369:9    warning  'inp_sim_vce' is not defined                      no-undef
+  370:9    warning  'inp_sim_vce' is not defined                      no-undef
+  370:23   warning  'inp_sim_vce' is not defined                      no-undef
+  373:14   warning  'inp_sim_vce' is not defined                      no-undef
+  380:25   warning  'input_ch' is not defined                         no-undef
+  381:13   warning  'input_ch' is not defined                         no-undef
+  381:35   warning  'inp_sim_vce' is not defined                      no-undef
+  382:24   warning  'input_ch' is not defined                         no-undef
+  383:23   warning  'input_ch' is not defined                         no-undef
+  385:36   warning  'inp_sim_vbe' is not defined                      no-undef
+  386:21   warning  'inp_sim_ib' is not defined                       no-undef
+  387:36   warning  'inp_sim_ib' is not defined                       no-undef
+  388:37   warning  'inp_sim_vce' is not defined                      no-undef
+  389:37   warning  'inp_sim_vbe' is not defined                      no-undef
+  390:43   warning  'inp_sim_vce' is not defined                      no-undef
+  400:5    warning  'current_vsr' is not defined                      no-undef
+  400:19   warning  'current_dataset' is not defined                  no-undef
+  400:38   warning  'i_index' is not defined                          no-undef
+  407:5    warning  'current_vsr' is not defined                      no-undef
+  407:19   warning  'current_dataset' is not defined                  no-undef
+  407:38   warning  'i_index' is not defined                          no-undef
+  414:5    warning  'current_vsr' is not defined                      no-undef
+  414:19   warning  'current_dataset' is not defined                  no-undef
+  414:38   warning  'i_index' is not defined                          no-undef
+  421:5    warning  'current_vsr' is not defined                      no-undef
+  421:19   warning  'current_dataset' is not defined                  no-undef
+  421:38   warning  'i_index' is not defined                          no-undef
+  441:17   warning  'current_vsr' is not defined                      no-undef
+  451:25   warning  'current_dataset' is not defined                  no-undef
+  451:44   warning  'i_index' is not defined                          no-undef
+  451:55   warning  'current_vsr' is not defined                      no-undef
+  451:70   warning  'current_dataset' is not defined                  no-undef
+  451:89   warning  'i_index' is not defined                          no-undef
+  460:10   warning  'out_ch_vce_dec' is defined but never used        no-unused-vars
+  461:9    warning  'out_sim_vce' is not defined                      no-undef
+  462:9    warning  'out_sim_vce' is not defined                      no-undef
+  462:23   warning  'out_sim_vce' is not defined                      no-undef
+  466:14   warning  'out_sim_vce' is not defined                      no-undef
+  471:10   warning  'out_ch_vce_inc' is defined but never used        no-unused-vars
+  472:9    warning  'out_sim_vce' is not defined                      no-undef
+  473:9    warning  'out_sim_vce' is not defined                      no-undef
+  473:23   warning  'out_sim_vce' is not defined                      no-undef
+  477:14   warning  'out_sim_vce' is not defined                      no-undef
+  482:10   warning  'out_ch_ib_dec' is defined but never used         no-unused-vars
+  483:9    warning  'out_sim_ib' is not defined                       no-undef
+  484:9    warning  'out_sim_ib' is not defined                       no-undef
+  484:22   warning  'out_sim_ib' is not defined                       no-undef
+  487:14   warning  'out_sim_ib' is not defined                       no-undef
+  491:10   warning  'out_ch_ib_inc' is defined but never used         no-unused-vars
+  492:9    warning  'out_sim_ib' is not defined                       no-undef
+  493:9    warning  'out_sim_ib' is not defined                       no-undef
+  493:22   warning  'out_sim_ib' is not defined                       no-undef
+  496:14   warning  'out_sim_ib' is not defined                       no-undef
+  503:25   warning  'output_ch' is not defined                        no-undef
+  504:13   warning  'output_ch' is not defined                        no-undef
+  504:35   warning  'out_sim_ib' is not defined                       no-undef
+  505:24   warning  'output_ch' is not defined                        no-undef
+  506:23   warning  'output_ch' is not defined                        no-undef
+  508:36   warning  'out_sim_vce' is not defined                      no-undef
+  509:21   warning  'out_sim_ic' is not defined                       no-undef
+  510:36   warning  'out_sim_ic' is not defined                       no-undef
+  511:37   warning  'out_sim_vce' is not defined                      no-undef
+  512:36   warning  'out_sim_ib' is not defined                       no-undef
+  513:42   warning  'out_sim_ib' is not defined                       no-undef
+  520:10   warning  'set_first_constant' is defined but never used    no-unused-vars
+  522:9    warning  'inp_sim_vce' is not defined                      no-undef
+  531:19   warning  'inp_sim_vce' is not defined                      no-undef
+  537:10   warning  'set_second_constant' is defined but never used   no-unused-vars
+  538:9    warning  'out_sim_ib' is not defined                       no-undef
+  547:19   warning  'out_sim_ib' is not defined                       no-undef
+  555:10   warning  'record_observation' is defined but never used    no-unused-vars
+  556:9    warning  'obs_table' is not defined                        no-undef
+  557:31   warning  'bootstrap' is not defined                        no-undef
+  563:25   warning  'obs_table' is not defined                        no-undef
+  564:13   warning  'obs_table' is not defined                        no-undef
+  564:32   warning  'current_dataset' is not defined                  no-undef
+  564:51   warning  'i_index' is not defined                          no-undef
+  586:18   warning  'obs_table' is not defined                        no-undef
+  587:18   warning  'current_dataset' is not defined                  no-undef
+  587:37   warning  'i_index' is not defined                          no-undef
+  588:18   warning  'current_dataset' is not defined                  no-undef
+  588:37   warning  'i_index' is not defined                          no-undef
+  589:18   warning  'current_dataset' is not defined                  no-undef
+  589:37   warning  'i_index' is not defined                          no-undef
+  590:18   warning  'current_dataset' is not defined                  no-undef
+  590:37   warning  'i_index' is not defined                          no-undef
+  591:5    warning  'obs_table' is not defined                        no-undef
+  594:19   warning  'Show_Table' is not defined                       no-undef
+  594:38   warning  'obs_table' is not defined                        no-undef
+  598:9    warning  'bsOffcanvas' is already defined                  no-redeclare
+  598:27   warning  'bootstrap' is not defined                        no-undef
+  600:9    warning  'obs_table' is not defined                        no-undef
+  609:10   warning  'disable_buttons' is defined but never used       no-unused-vars
+  628:10   warning  'enable_buttons' is defined but never used        no-unused-vars
+  647:10   warning  'increase_current' is defined but never used      no-unused-vars
+  650:9    warning  'i_index' is not defined                          no-undef
+  650:19   warning  'current_dataset' is not defined                  no-undef
+  651:9    warning  'i_index' is not defined                          no-undef
+  652:9    warning  'i_state' is not defined                          no-undef
+  652:19   warning  'current_dataset' is not defined                  no-undef
+  652:38   warning  'i_index' is not defined                          no-undef
+  653:9    warning  'b_index' is not defined                          no-undef
+  654:9    warning  'b_state' is not defined                          no-undef
+  654:19   warning  'current_dataset' is not defined                  no-undef
+  654:38   warning  'i_index' is not defined                          no-undef
+  655:9    warning  'current_msr' is not defined                      no-undef
+  656:9    warning  'current_vsr' is not defined                      no-undef
+  656:23   warning  'current_dataset' is not defined                  no-undef
+  656:42   warning  'i_index' is not defined                          no-undef
+  665:18   warning  'i_state' is not defined                          no-undef
+  666:18   warning  'b_state' is not defined                          no-undef
+  667:5    warning  'current_vsr' is not defined                      no-undef
+  667:19   warning  'current_dataset' is not defined                  no-undef
+  667:38   warning  'i_index' is not defined                          no-undef
+  671:10   warning  'decrease_current' is defined but never used      no-unused-vars
+  674:9    warning  'i_index' is not defined                          no-undef
+  675:9    warning  'i_index' is not defined                          no-undef
+  676:9    warning  'i_state' is not defined                          no-undef
+  676:19   warning  'ferric_chloride_data' is not defined             no-undef
+  676:43   warning  'i_index' is not defined                          no-undef
+  677:9    warning  'b_index' is not defined                          no-undef
+  678:9    warning  'b_state' is not defined                          no-undef
+  678:19   warning  'ferric_chloride_data' is not defined             no-undef
+  678:43   warning  'i_index' is not defined                          no-undef
+  687:18   warning  'i_state' is not defined                          no-undef
+  688:18   warning  'b_state' is not defined                          no-undef
+  689:5    warning  'current_vsr' is not defined                      no-undef
+  689:19   warning  'current_dataset' is not defined                  no-undef
+  689:38   warning  'i_index' is not defined                          no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/activity4.js
+    3:5   warning  'inp_ib_y' is assigned a value but never used    no-unused-vars
+    4:5   warning  'inp_vbe_x' is assigned a value but never used   no-unused-vars
+    5:5   warning  'out_ic_y' is assigned a value but never used    no-unused-vars
+    6:5   warning  'out_vce_x' is assigned a value but never used   no-unused-vars
+    7:5   warning  'in_others' is assigned a value but never used   no-unused-vars
+    8:5   warning  'out_others' is assigned a value but never used  no-unused-vars
+   11:10  warning  'activity4' is defined but never used            no-unused-vars
+   12:5   warning  'pp' is not defined                              no-undef
+   13:5   warning  'pp' is not defined                              no-undef
+   14:5   warning  'pp' is not defined                              no-undef
+   16:5   warning  'pp' is not defined                              no-undef
+   17:5   warning  'pp' is not defined                              no-undef
+   18:27  warning  'bootstrap' is not defined                       no-undef
+   63:5   warning  'pp' is not defined                              no-undef
+   65:5   warning  'pp' is not defined                              no-undef
+   68:5   warning  'canvas' is not defined                          no-undef
+   68:14  warning  'pp' is not defined                              no-undef
+   69:5   warning  'context' is not defined                         no-undef
+   69:15  warning  'canvas' is not defined                          no-undef
+  109:5   warning  'canvas' is not defined                          no-undef
+  110:5   warning  'canvas' is not defined                          no-undef
+  110:23  warning  'canvas' is not defined                          no-undef
+  111:5   warning  'lscale' is not defined                          no-undef
+  111:14  warning  'canvas' is not defined                          no-undef
+  113:9   warning  'canvas' is not defined                          no-undef
+  117:5   warning  'context' is not defined                         no-undef
+  117:26  warning  'canvas' is not defined                          no-undef
+  118:5   warning  'context' is not defined                         no-undef
+  124:25  warning  'obs_table' is not defined                       no-undef
+  125:9   warning  'obs_table' is not defined                       no-undef
+  125:44  warning  'obs_table' is not defined                       no-undef
+  126:9   warning  'obs_table' is not defined                       no-undef
+  126:36  warning  'obs_table' is not defined                       no-undef
+  126:54  warning  'obs_table' is not defined                       no-undef
+  128:19  warning  'Verify_Rows_Cols_Custom_Fixed' is not defined   no-undef
+  128:57  warning  'obs_table' is not defined                       no-undef
+  136:5   warning  'pp' is not defined                              no-undef
+  137:5   warning  'pp' is not defined                              no-undef
+  138:25  warning  'obs_table' is not defined                       no-undef
+  139:21  warning  'obs_table' is not defined                       no-undef
+  140:21  warning  'obs_table' is not defined                       no-undef
+  143:26  warning  'select_density' is not defined                  no-undef
+  146:27  warning  'bootstrap' is not defined                       no-undef
+  170:21  warning  'Chart' is not defined                           no-undef
+  217:24  warning  'MathJax' is not defined                         no-undef
+  219:10  warning  'act4_verify' is defined but never used          no-unused-vars
+  224:10  warning  'verify_values' is not defined                   no-undef
+  228:10  warning  'verify_values' is not defined                   no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/common.js
+   1:10  warning  'verify_values' is defined but never used                no-unused-vars
+  21:10  warning  'std_deviation' is defined but never used                no-unused-vars
+  26:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  43:10  warning  'ascending_random_array' is defined but never used       no-unused-vars
+  45:12  warning  Unexpected constant condition                            no-constant-condition
+  62:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/data.js
+    2:5  warning  'mode' is assigned a value but never used                         no-unused-vars
+    3:5  warning  'exp_data' is assigned a value but never used                     no-unused-vars
+    4:5  warning  'input_ch' is assigned a value but never used                     no-unused-vars
+   31:5  warning  'output_ch' is assigned a value but never used                    no-unused-vars
+   58:5  warning  'inp_sim_ib' is assigned a value but never used                   no-unused-vars
+   59:5  warning  'inp_sim_ic' is assigned a value but never used                   no-unused-vars
+   60:5  warning  'inp_sim_vce' is assigned a value but never used                  no-unused-vars
+   61:5  warning  'inp_sim_vbe' is assigned a value but never used                  no-unused-vars
+   62:5  warning  'out_sim_ib' is assigned a value but never used                   no-unused-vars
+   63:5  warning  'out_sim_ic' is assigned a value but never used                   no-unused-vars
+   64:5  warning  'out_sim_vce' is assigned a value but never used                  no-unused-vars
+   65:5  warning  'out_sim_vbe' is assigned a value but never used                  no-unused-vars
+   66:5  warning  'input_observation_table' is assigned a value but never used      no-unused-vars
+   93:5  warning  'output_observation_table' is assigned a value but never used     no-unused-vars
+  100:5  warning  'current' is assigned a value but never used                      no-unused-vars
+  101:5  warning  'd' is assigned a value but never used                            no-unused-vars
+  102:5  warning  'x' is assigned a value but never used                            no-unused-vars
+  103:5  warning  'x1' is assigned a value but never used                           no-unused-vars
+  104:5  warning  'd1' is assigned a value but never used                           no-unused-vars
+  105:5  warning  'calc_table' is assigned a value but never used                   no-unused-vars
+  110:5  warning  'ferric_chloride_data' is assigned a value but never used         no-unused-vars
+  140:5  warning  'manganese_sulphate_solution' is assigned a value but never used  no-unused-vars
+  169:5  warning  'select_material' is assigned a value but never used              no-unused-vars
+  170:5  warning  'select_density' is assigned a value but never used               no-unused-vars
+  171:5  warning  'i_index' is assigned a value but never used                      no-unused-vars
+  172:5  warning  'i_state' is assigned a value but never used                      no-unused-vars
+  173:5  warning  'b_index' is assigned a value but never used                      no-unused-vars
+  174:5  warning  'b_state' is assigned a value but never used                      no-unused-vars
+  175:5  warning  'current_msr' is assigned a value but never used                  no-unused-vars
+  176:5  warning  'current_vsr' is assigned a value but never used                  no-unused-vars
+  177:5  warning  'current_dataset' is assigned a value but never used              no-unused-vars
+  178:5  warning  'noise' is assigned a value but never used                        no-unused-vars
+  179:5  warning  'obs_table' is assigned a value but never used                    no-unused-vars
+  216:5  warning  'tab4' is assigned a value but never used                         no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/dummy.js
+  2:14  warning  'Pannel' is not defined  no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  185:39   warning  'lscale' is not defined          no-undef
+  185:57   warning  'lscale' is not defined          no-undef
+  186:39   warning  'lscale' is not defined          no-undef
+  186:57   warning  'lscale' is not defined          no-undef
+  233:33   warning  'lscale' is not defined          no-undef
+  234:33   warning  'lscale' is not defined          no-undef
+  282:50   warning  'lscale' is not defined          no-undef
+  282:72   warning  'lscale' is not defined          no-undef
+  287:63   warning  'lscale' is not defined          no-undef
+  287:88   warning  'lscale' is not defined          no-undef
+  287:106  warning  'lscale' is not defined          no-undef
+  287:124  warning  'lscale' is not defined          no-undef
+  301:33   warning  'lscale' is not defined          no-undef
+  302:33   warning  'lscale' is not defined          no-undef
+  303:41   warning  'lscale' is not defined          no-undef
+  303:66   warning  'lscale' is not defined          no-undef
+  304:41   warning  'lscale' is not defined          no-undef
+  304:66   warning  'lscale' is not defined          no-undef
+  305:45   warning  'lscale' is not defined          no-undef
+  305:70   warning  'lscale' is not defined          no-undef
+  306:45   warning  'lscale' is not defined          no-undef
+  306:70   warning  'lscale' is not defined          no-undef
+  333:61   warning  'lscale' is not defined          no-undef
+  333:90   warning  'lscale' is not defined          no-undef
+  334:61   warning  'lscale' is not defined          no-undef
+  334:96   warning  'lscale' is not defined          no-undef
+  335:66   warning  'lscale' is not defined          no-undef
+  335:101  warning  'lscale' is not defined          no-undef
+  336:66   warning  'lscale' is not defined          no-undef
+  336:100  warning  'lscale' is not defined          no-undef
+  337:67   warning  'lscale' is not defined          no-undef
+  337:101  warning  'lscale' is not defined          no-undef
+  338:67   warning  'lscale' is not defined          no-undef
+  338:96   warning  'lscale' is not defined          no-undef
+  339:61   warning  'lscale' is not defined          no-undef
+  339:90   warning  'lscale' is not defined          no-undef
+  356:33   warning  'lscale' is not defined          no-undef
+  357:33   warning  'lscale' is not defined          no-undef
+  386:46   warning  'lscale' is not defined          no-undef
+  392:50   warning  'lscale' is not defined          no-undef
+  392:72   warning  'lscale' is not defined          no-undef
+  422:52   warning  'lscale' is not defined          no-undef
+  422:79   warning  'lscale' is not defined          no-undef
+  424:56   warning  'lscale' is not defined          no-undef
+  424:83   warning  'lscale' is not defined          no-undef
+  461:50   warning  'lscale' is not defined          no-undef
+  461:72   warning  'lscale' is not defined          no-undef
+  467:63   warning  'lscale' is not defined          no-undef
+  467:88   warning  'lscale' is not defined          no-undef
+  467:106  warning  'lscale' is not defined          no-undef
+  467:124  warning  'lscale' is not defined          no-undef
+  481:33   warning  'lscale' is not defined          no-undef
+  482:33   warning  'lscale' is not defined          no-undef
+  483:41   warning  'lscale' is not defined          no-undef
+  483:66   warning  'lscale' is not defined          no-undef
+  484:41   warning  'lscale' is not defined          no-undef
+  484:66   warning  'lscale' is not defined          no-undef
+  485:45   warning  'lscale' is not defined          no-undef
+  485:70   warning  'lscale' is not defined          no-undef
+  486:45   warning  'lscale' is not defined          no-undef
+  486:70   warning  'lscale' is not defined          no-undef
+  515:50   warning  'lscale' is not defined          no-undef
+  515:72   warning  'lscale' is not defined          no-undef
+  520:139  warning  'lscale' is not defined          no-undef
+  520:172  warning  'lscale' is not defined          no-undef
+  520:205  warning  'lscale' is not defined          no-undef
+  520:223  warning  'lscale' is not defined          no-undef
+  541:50   warning  'lscale' is not defined          no-undef
+  541:72   warning  'lscale' is not defined          no-undef
+  546:139  warning  'lscale' is not defined          no-undef
+  546:172  warning  'lscale' is not defined          no-undef
+  546:205  warning  'lscale' is not defined          no-undef
+  546:223  warning  'lscale' is not defined          no-undef
+  568:50   warning  'lscale' is not defined          no-undef
+  568:72   warning  'lscale' is not defined          no-undef
+  573:133  warning  'lscale' is not defined          no-undef
+  573:172  warning  'lscale' is not defined          no-undef
+  573:205  warning  'lscale' is not defined          no-undef
+  573:222  warning  'lscale' is not defined          no-undef
+  596:39   warning  'lscale' is not defined          no-undef
+  596:53   warning  'lscale' is not defined          no-undef
+  597:39   warning  'lscale' is not defined          no-undef
+  597:53   warning  'lscale' is not defined          no-undef
+  598:39   warning  'lscale' is not defined          no-undef
+  598:53   warning  'lscale' is not defined          no-undef
+  599:39   warning  'lscale' is not defined          no-undef
+  599:53   warning  'lscale' is not defined          no-undef
+  606:36   warning  'lscale' is not defined          no-undef
+  606:50   warning  'lscale' is not defined          no-undef
+  606:63   warning  'lscale' is not defined          no-undef
+  617:36   warning  'lscale' is not defined          no-undef
+  617:50   warning  'lscale' is not defined          no-undef
+  617:63   warning  'lscale' is not defined          no-undef
+  644:46   warning  'lscale' is not defined          no-undef
+  649:50   warning  'lscale' is not defined          no-undef
+  649:72   warning  'lscale' is not defined          no-undef
+  671:50   warning  'lscale' is not defined          no-undef
+  671:72   warning  'lscale' is not defined          no-undef
+  675:46   warning  'lscale' is not defined          no-undef
+  676:46   warning  'lscale' is not defined          no-undef
+  676:67   warning  'lscale' is not defined          no-undef
+  677:49   warning  'lscale' is not defined          no-undef
+  714:50   warning  'lscale' is not defined          no-undef
+  714:72   warning  'lscale' is not defined          no-undef
+  730:38   warning  'lscale' is not defined          no-undef
+  730:51   warning  'lscale' is not defined          no-undef
+  732:38   warning  'lscale' is not defined          no-undef
+  734:38   warning  'lscale' is not defined          no-undef
+  734:52   warning  'lscale' is not defined          no-undef
+  762:36   warning  'drop' is not defined            no-undef
+  762:68   warning  'lscale' is not defined          no-undef
+  762:106  warning  'lscale' is not defined          no-undef
+  762:120  warning  'lscale' is not defined          no-undef
+  762:140  warning  'lscale' is not defined          no-undef
+  828:13   warning  'context' is not defined         no-undef
+  831:13   warning  'context' is not defined         no-undef
+  832:13   warning  'context' is not defined         no-undef
+  832:38   warning  'lscale' is not defined          no-undef
+  832:56   warning  'lscale' is not defined          no-undef
+  833:13   warning  'context' is not defined         no-undef
+  833:38   warning  'lscale' is not defined          no-undef
+  833:56   warning  'lscale' is not defined          no-undef
+  834:13   warning  'context' is not defined         no-undef
+  835:13   warning  'context' is not defined         no-undef
+  836:13   warning  'context' is not defined         no-undef
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/pannel.js
+   11:7  warning  'Pannel' is defined but never used  no-unused-vars
+  113:7  warning  'Table1' is defined but never used  no-unused-vars
+  155:7  warning  'Table2' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-quincke-method-iitb/exp-quincke-method-iitb/experiment/simulation/js/simulation/ts/scene.js
+  11:9    warning  'context' is not defined                  no-undef
+  11:33   warning  'canvas' is not defined                   no-undef
+  11:47   warning  'canvas' is not defined                   no-undef
+  27:7    warning  'Scene_Canvas' is defined but never used  no-unused-vars
+  64:5    warning  'context' is not defined                  no-undef
+  65:9    warning  'grd' is assigned a value but never used  no-unused-vars
+  65:15   warning  'context' is not defined                  no-undef
+  65:44   warning  'canvas' is not defined                   no-undef
+  65:62   warning  'canvas' is not defined                   no-undef
+  65:84   warning  'canvas' is not defined                   no-undef
+  65:102  warning  'canvas' is not defined                   no-undef
+  65:121  warning  'canvas' is not defined                   no-undef
+  73:5    warning  'context' is not defined                  no-undef
+  74:5    warning  'context' is not defined                  no-undef
+  74:28   warning  'canvas' is not defined                   no-undef
+  74:42   warning  'canvas' is not defined                   no-undef
+  75:5    warning  'context' is not defined                  no-undef
+  76:5    warning  'context' is not defined                  no-undef
+  81:9    warning  'grd' is assigned a value but never used  no-unused-vars
+
+✖ 822 problems (0 errors, 822 warnings)
+
